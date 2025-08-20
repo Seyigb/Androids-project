@@ -1,5 +1,20 @@
 # Simple TodoList using React Native
-<p>
-  <a href="https://www.youtube.com/playlist?list=PLYBvEAka-q1hJuwRPYQPlEBBRm7_qGw_2">YouTube Tutorial Series</a>
-</p>
-<img src="./mockup.png" />
+A simple Todo app built with React Native. It lets you add, complete, and remove tasks.
+
+Features
+
+Add new tasks
+
+Mark tasks as completed
+
+Delete tasks
+
+Persistent storage with AsyncStorage
+
+Requirements
+
+Node.js >= 16
+
+npm or yarn
+
+React Native CLI or Expo CLI
